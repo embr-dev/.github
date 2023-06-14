@@ -8,3 +8,8 @@
 <br>
 <a href="https://github.com/3kh0">3kh0 (Echo)</a>
 </p>
+<p align="center">
+Join our discord for more information
+
+<a href="https://discord.gg/TnPKn4xQ" align="center"><img src="https://invidget.switchblade.xyz/TnPKn4xQ?theme=dark"/></a>
+</p>
