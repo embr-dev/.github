@@ -11,5 +11,5 @@
 <p align="center">
 Join our discord for more information
 
-<a href="https://discord.gg/TnPKn4xQ" align="center"><img src="https://invidget.switchblade.xyz/TnPKn4xQ?theme=dark"/></a>
+<a align="center" href="https://discord.gg/RXBbxQ4wuJ" align="center"><img src="https://invidget.switchblade.xyz/RXBbxQ4wuJ?theme=dark"/></a>
 </p>
