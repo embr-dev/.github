@@ -13,3 +13,7 @@ Join our discord for more information
 
 <a align="center" href="https://discord.gg/RXBbxQ4wuJ" align="center"><img src="https://invidget.switchblade.xyz/RXBbxQ4wuJ?theme=dark"/></a>
 </p>
+
+<p align="center">
+  ©EmberNetwork 2023 | <a href="https://status.embernet.work/">Server Status</a>
+</p>
