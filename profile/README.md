@@ -17,9 +17,12 @@
 <h3 align="center">Developers</h3>
 <p align="center">
 <a href="https://github.com/Russell2259">Russell2259</a>
-<br>
-<a href="https://github.com/3kh0">3kh0 (Echo)</a>
 </p>
+<h3 align="center">Contributors</h3>
+<p align="center">
+<a href="https://github.com/3kh0">3kh0 (Echo)</a>
+<br>
+<a href="https://github.com/silvereen">Silvereen</a>
 <p>
 Join our discord for more information
 
